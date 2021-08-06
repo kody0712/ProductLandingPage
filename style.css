@@ -1,0 +1,47 @@
+
+
+#header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background: black;
+    color: white;
+    margin: auto;
+    max-width: 600px;
+    
+
+}
+
+#form {
+    text-align: center;
+}
+#nav-bar {
+    flex-direction: column;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    width: 600px;
+    margin: auto;
+}
+.nav-link {
+    background: white;
+    color: black;
+    text-align: justify;
+    margin: auto;
+}
+.grid {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 100;
+    
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
